@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [LVCharts](https://lvcharts.de)
 
-- 👯 I’m looking to collaborate on [Mizuki-bot](https://github.com/orgs/Mizuki-bot)
-
 - 👨‍💻 All of my projects are available at [https://github.com/shaunluedeke?tab=repositories](https://github.com/shaunluedeke?tab=repositories)
 
 - 📝 I regularly write articles on [http://luedeke.xyz](http://luedeke.xyz)
